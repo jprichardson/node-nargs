@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:jprichardson/node-nargs.git"
   },
   "keywords": [],
   "author": "JP Richardson <jprichardson@gmail.com>",
