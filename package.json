@@ -1,7 +1,7 @@
 {
   "name": "nargs",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Normalize function arguments.",
   "homepage": [
     ""
   ],
@@ -17,7 +17,7 @@
       "url": ""
     }
   ],
-  "main": "./lib/fargs.js",
+  "main": "./lib/nargs.js",
   "scripts": {
     "test": "mocha test"
   },
